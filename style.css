@@ -4,7 +4,7 @@ form * {
   margin: 1em;
 }
 
-#checkbox {
+#checkbox, label {
   display:inline;
 
 }
